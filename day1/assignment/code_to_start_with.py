@@ -75,3 +75,4 @@ print(f"SVM Accuracy: {svm_accuracy:.4f}")
 print(f"KNN Accuracy: {knn_accuracy:.4f}")
 print(f"Random Forest Accuracy: {rf_accuracy:.4f}")
 # %%
+# %%
